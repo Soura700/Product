@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #f8e367;
+  transition: all 3ms ease;
+  color: var(--blak);
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,18 @@
+{
+  "product": {
+    "productName": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and 20 hours battery life.",
+    "countInStock": 50,
+    "oldPrice": 149.99,
+    "newPrice": 129.99,
+    "images": [
+      "/images/headphone-prod-2-PhotoRoom.png-PhotoRoom.png",
+      "/images/headphone-prod-4-PhotoRoom.png-PhotoRoom.png",
+      "/images/headphone-prod-5-PhotoRoom.png-PhotoRoom.png",
+      "/images/headphone-prod-6-PhotoRoom.png-PhotoRoom.png"
+    ],
+    "video": "/images/video.mp4"
+  }
+}
+
+
